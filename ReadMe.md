@@ -18,3 +18,10 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 * Created a new app named *bilu-web* using the command `npx create-react-app bilu-web`. This generated loads of files. 😕 Although this comes with a fun-part—an automatically-generated `.gitignore` file.
 * Started the server using `npm run start`.
 * Learnt a good thing. Our `package.json` file contains all the dependencies—so when we clone a repo and run `npm install`—all the necessary dependencies are installed automatically.
+
+
+
+## 3. Components and Templates
+* What we are working with is almost identical to html, and we call this *jsx*.
+* One big difference between jsx and html is, in jsx, we use `className` instead of `class`. This is obvious, because `class` is a reserved keyword in JavaScript.
+* React is based on *components*. A component, in a nutshell, just a function, and inside that function, we return jsx templates (generally), but as we are being said, it can also be otherwise.
