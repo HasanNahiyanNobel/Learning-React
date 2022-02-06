@@ -37,6 +37,12 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 * React has a root component. In this case, it is `App.js`. We may add subcomponents (navbar, details, sidebar etc.) under this root component.
 * Also, we may have sub-subcomponents.
 * To create a component, for example, navbar, we have to
-	* Create `Navbar.js` inside `src` directory.
-	* Crete a function inside that file.
-	* Import the function to `Apps.js`.
+  * Create `Navbar.js` inside `src` directory.
+  * Crete a function inside that file.
+  * Import the function to `Apps.js`.
+
+
+
+## 6. Adding Styles
+* Got rid of `App.css` and used `index.css` for all the styling.
+* Used object for inline styling. 
