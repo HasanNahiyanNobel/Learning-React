@@ -11,3 +11,10 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 ## 1. Introduction
 * React is just an open-source JS library—used to build user interfaces.
 * And one interesting thing—it is maintained by [Meta](https://en.wikipedia.org/wiki/Meta_Platforms)! Literally, their GitHub repository reads: [github.com/facebook/react](https://github.com/facebook/react).
+
+
+
+## 2. Creating a React Application
+* Created a new app named *bilu-web* using the command `npx create-react-app bilu-web`. This generated loads of files. 😕 Although this comes with a fun-part—an automatically-generated `.gitignore` file.
+* Started the server using `npm run start`.
+* Learnt a good thing. Our `package.json` file contains all the dependencies—so when we clone a repo and run `npm install`—all the necessary dependencies are installed automatically.
