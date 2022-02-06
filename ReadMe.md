@@ -45,4 +45,9 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 6. Adding Styles
 * Got rid of `App.css` and used `index.css` for all the styling.
-* Used object for inline styling. 
+* Used object for inline styling.
+
+
+
+## 7. Click Events
+* Used functions, with and without parameters, to handle button click events.
