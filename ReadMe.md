@@ -25,3 +25,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 * What we are working with is almost identical to html, and we call this *jsx*.
 * One big difference between jsx and html is, in jsx, we use `className` instead of `class`. This is obvious, because `class` is a reserved keyword in JavaScript.
 * React is based on *components*. A component, in a nutshell, just a function, and inside that function, we return jsx templates (generally), but as we are being said, it can also be otherwise.
+
+
+
+## 4. Dynamic Values in Templates
+* Learnt to use constants (and essentially, variables) inside jsx.
