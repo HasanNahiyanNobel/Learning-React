@@ -51,3 +51,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 7. Click Events
 * Used functions, with and without parameters, to handle button click events.
+
+
+
+## 8. Using State (`useState` hook)
+* Learnt to use the `useState` hook to change page content on the fly. This is awesome!
