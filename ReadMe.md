@@ -61,3 +61,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 9. Intro to React Dev Tools
 * Learnt how useful a browser extension can be!
+
+
+
+## 10. Outputting Lists
+* Used a JS array method to generate blog posts.
