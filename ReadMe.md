@@ -56,3 +56,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 8. Using State (`useState` hook)
 * Learnt to use the `useState` hook to change page content on the fly. This is awesome!
+
+
+
+## 9. Intro to React Dev Tools
+* Learnt how useful a browser extension can be!
