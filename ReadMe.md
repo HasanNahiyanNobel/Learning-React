@@ -37,9 +37,9 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 * React has a root component. In this case, it is `App.js`. We may add subcomponents (navbar, details, sidebar etc.) under this root component.
 * Also, we may have sub-subcomponents.
 * To create a component, for example, navbar, we have to
-  * Create `Navbar.js` inside `src` directory.
-  * Crete a function inside that file.
-  * Import the function to `Apps.js`.
+	* Create `Navbar.js` inside `src` directory.
+	* Crete a function inside that file.
+	* Import the function to `Apps.js`.
 
 
 
@@ -86,3 +86,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 14. `useEffect` Hook (The Basics)
 * We need to be careful here, because changing the DOM inside `useEffect` may end up in endless loops.
+
+
+
+## 15. `useEffect` Dependencies
+* Learnt to use dependencies on `useEffect`. This is beautiful!
