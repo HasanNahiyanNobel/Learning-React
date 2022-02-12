@@ -1,10 +1,10 @@
-import {useState} from 'react';
+import {useState, useEffect} from 'react';
 import BlogList from './BlogList';
 
 const Home = () => {
   const [blogs, setBlogs] = useState([
     {title: 'My new website', body: 'lorem ipsum...', author: 'john', id: 1},
-    {title: 'Welcome party!', body: 'lorem ipsum...', author: 'yoshi', id: 2},
+    {title: 'Welcome party!', body: 'lorem ipsum...', author: 'paul', id: 2},
     {title: 'Web dev top tips', body: 'lorem ipsum...', author: 'john', id: 3},
   ]);
 
@@ -12,6 +12,10 @@ const Home = () => {
     const newBlogs = blogs.filter(blog => id !== blog.id);
     setBlogs(newBlogs);
   };
+
+  useEffect(()=>{
+    alert(`useEffect ran!`);
+  })
 
   return (
       <div className="Home">

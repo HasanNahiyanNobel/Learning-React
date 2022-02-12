@@ -54,7 +54,7 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 
 
-## 8. Using State (`useState` hook)
+## 8. Using State (`useState` Hook)
 * Learnt to use the `useState` hook to change page content on the fly. This is awesome!
 
 
@@ -81,3 +81,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 13. Functions
 * Used a function to delete blogs.
+
+
+
+## 14. `useEffect` Hook (The Basics)
+* We need to be careful here, because changing the DOM inside `useEffect` may end up in endless loops.
