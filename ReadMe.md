@@ -66,3 +66,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 10. Outputting Lists
 * Used a JS array method to generate blog posts.
+
+
+
+## 11. Props
+* Passed a property—which seemed magical—as I had a hard time to understand how this works.
