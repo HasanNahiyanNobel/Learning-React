@@ -76,3 +76,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 12. Reusing Components
 * As the title says, learnt to reuse components. React seems powerful now.
+
+
+
+## 13. Functions
+* Used a function to delete blogs.
