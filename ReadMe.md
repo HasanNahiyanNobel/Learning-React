@@ -96,3 +96,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 16. Using the JSON Server
 * Used `npx json-server --watch data/db.json --port 8000` to start a *JSON server*, perhaps.
+
+
+
+## 17. Fetching Data with `useEffect`
+* Fetched data from the json db, using `useEffect`. Felt like magic.
