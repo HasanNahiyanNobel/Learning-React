@@ -106,3 +106,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 18. Conditional Loading Message
 * Showed a loading message (although I'd preferred a spinner!) while the blogs are loading.
+
+
+
+## 19. Handling Fetch Errors
+* Learnt basic handling for fetch errors.
