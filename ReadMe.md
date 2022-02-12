@@ -71,3 +71,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 11. Props
 * Passed a property—which seemed magical—as I had a hard time to understand how this works.
+
+
+
+## 12. Reusing Components
+* As the title says, learnt to reuse components. React seems powerful now.
