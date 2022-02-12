@@ -101,3 +101,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 17. Fetching Data with `useEffect`
 * Fetched data from the json db, using `useEffect`. Felt like magic.
+
+
+
+## 18. Conditional Loading Message
+* Showed a loading message (although I'd preferred a spinner!) while the blogs are loading.
