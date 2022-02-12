@@ -91,3 +91,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 15. `useEffect` Dependencies
 * Learnt to use dependencies on `useEffect`. This is beautiful!
+
+
+
+## 16. Using the JSON Server
+* Used `npx json-server --watch data/db.json --port 8000` to start a *JSON server*, perhaps.
