@@ -117,3 +117,10 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 ## 20. Making a Custom Hook
 * Custom hooks in React need to start with `use`. Otherwise, they won't work. 😕
 * Implemented a custom hook `useFetch`.
+
+
+
+## 21. The React Router
+* Used `npm install react-router-dom` to install that package.
+* Imported some components from react-router-dom.
+* Added The route for home component.
