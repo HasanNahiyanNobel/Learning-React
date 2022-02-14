@@ -124,3 +124,13 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 * Used `npm install react-router-dom` to install that package.
 * Imported some components from react-router-dom.
 * Added The route for home component.
+
+
+
+## 22. Exact Match Routes
+* React has a strange way of matching routes, that's why we need a `<Route exact path="/">` for the index page.
+
+
+
+## 23. Router Links
+* Use `<Link>` instead of `<a>` tag to prevent requests to servers.
