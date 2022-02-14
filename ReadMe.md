@@ -111,3 +111,9 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 19. Handling Fetch Errors
 * Learnt basic handling for fetch errors.
+
+
+
+## 20. Making a Custom Hook
+* Custom hooks in React need to start with `use`. Otherwise, they won't work. 😕
+* Implemented a custom hook `useFetch`.
