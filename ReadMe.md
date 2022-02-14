@@ -134,3 +134,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 23. Router Links
 * Use `<Link>` instead of `<a>` tag to prevent requests to servers.
+
+
+
+## 24. `useEffect` Cleanup
+* I don't think I understood any of this.
