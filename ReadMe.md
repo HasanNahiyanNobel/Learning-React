@@ -149,3 +149,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 26. Reusing Custom Hooks
 * Reused the `useFetch` hook.
+
+
+
+## 27. Controlled Inputs (Forms)
+* Created a basic form.
