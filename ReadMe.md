@@ -139,3 +139,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 24. `useEffect` Cleanup
 * I don't think I understood any of this.
+
+
+
+## 25. Route Parameters
+* Used parameter for paths.
