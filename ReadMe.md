@@ -154,3 +154,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 27. Controlled Inputs (Forms)
 * Created a basic form.
+
+
+
+## 28. Submitting a Form
+* Handled submit events.
