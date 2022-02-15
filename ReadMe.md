@@ -164,3 +164,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 29. Making a POST Request
 * Learnt to make POST requests.
+
+
+
+## 30. Programmatic Redirects
+* Once user submits a form, they are redirected to homepage now.
