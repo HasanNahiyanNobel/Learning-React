@@ -169,3 +169,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 30. Programmatic Redirects
 * Once user submits a form, they are redirected to homepage now.
+
+
+
+## 31. Deleting Blogs
+* Added button to delete blogs.

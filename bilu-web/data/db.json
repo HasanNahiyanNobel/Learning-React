@@ -13,22 +13,16 @@
       "id": 2
     },
     {
-      "title": "24",
-      "body": "asdf",
-      "author": "mario",
-      "id": 3
-    },
-    {
-      "title": "324t5sgfg",
-      "body": "sfdagsddswarvv sdfas",
-      "author": "mario",
-      "id": 4
-    },
-    {
       "title": "Test Title",
       "body": "sdjfbuif oaddbfuisd ldasn",
       "author": "mario",
       "id": 5
+    },
+    {
+      "title": "Test Again",
+      "body": "lorem impusm",
+      "author": "mario",
+      "id": 6
     }
   ]
 }
