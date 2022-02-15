@@ -144,3 +144,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 25. Route Parameters
 * Used parameter for paths.
+
+
+
+## 26. Reusing Custom Hooks
+* Reused the `useFetch` hook.
