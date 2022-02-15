@@ -174,3 +174,8 @@ Following the [Modern React Tutorial](https://www.youtube.com/playlist?list=PL4c
 
 ## 31. Deleting Blogs
 * Added button to delete blogs.
+
+
+
+## 32. 404 Pages and Next Steps
+* Added a basic 404 page.
